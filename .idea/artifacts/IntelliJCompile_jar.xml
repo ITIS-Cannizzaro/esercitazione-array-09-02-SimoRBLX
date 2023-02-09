@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntelliJCompile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntelliJCompile_jar</output-path>
+    <root id="archive" name="esercitazione-array-09-02-SimoRBLX.jar">
+      <element id="module-output" name="esercitazione-array-09-02-SimoRBLX" />
+    </root>
+  </artifact>
+</component>
